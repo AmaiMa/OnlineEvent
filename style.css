@@ -56,7 +56,7 @@ nav {
 }
 .box-1 .text-1 {
     position:relative;
-    top:180%;
+    top:15vw;
     left:50%;
     transform: translate(-50%, -50%);
     background-color: rgb(113, 173, 184);
@@ -74,7 +74,7 @@ nav {
 .box-2 .text-2 {
     text-align: center;
     position:relative;
-    top:180%;
+    top:15vw;
     left:50%;
     transform: translate(-50%, -50%);
     background-color: rgb(113, 173, 184);
@@ -99,7 +99,7 @@ nav {
 .text-3 {
     text-align: center;
     position:relative;
-    top:180%;
+    top:15vw;
     left:50%;
     transform: translate(-50%, -50%);
     background-color: rgb(113, 173, 184);
@@ -124,7 +124,7 @@ nav {
 .box-4 .text-4 {
     text-align: center;
     position:relative;
-    top:180%;
+    top:15vw%;
     left:50%;
     transform: translate(-50%, -50%);
     background-color: rgb(113, 173, 184);
